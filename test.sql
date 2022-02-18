@@ -1,1 +1,2 @@
-select * from table limit 10;
+select * from table limit 10
+where age >= 18;
