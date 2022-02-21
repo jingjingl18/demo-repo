@@ -1,2 +1,2 @@
 select * from table
-where age >= 18
+where age >= 18 limit 10;
